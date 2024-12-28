@@ -1,1 +1,2 @@
-# Portfolio
+Welcome to my Portfolio! Here, I demonstrate my work as a web developer and BTech student in computer science. To that end, the given information refers to my skills, experience, and projects. Try to get a glimpse and become more acquainted with what I do and my professional life.
+It aims to reflect my journey in being a web developer as well as my passion to build user-friendly, functional, and innovative websites. This is a place that would allow me to exhibit skills that I have learned and express myself as I continue growing and learning in the area of web development.
